@@ -1,0 +1,11 @@
+{
+  "points" :
+  [
+    {"beginX":"0","beginY":"0","endX":"0","endY":"0"},
+    {"beginX":"1","beginY":"2","endX":"15","endY":"11"},
+    {"beginX":"-100","beginY":"-17","endX":"10","endY":"40"},
+    {"beginX":"0","beginY":"0","endX":"1","endY":"1"},
+    {"beginX":"53","beginY":"41","endX":"17","endY":"41"},
+    {"beginX":"10","beginY":"17","endX":"10","endY":"45"}
+   ]
+}
